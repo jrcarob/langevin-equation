@@ -27,3 +27,4 @@ Early models (e.g., Bouchaud and Cont, 1998) use this to explain power-law tails
 - **Econophysics and data-driven inference:** Researchers estimate Langevin potentials directly from time series data to identify stable price equilibria, metastability, or non-stationary dynamics in stocks, currencies, or portfolios.
 This aids risk management, portfolio optimization, and forecasting under uncertainty.
 
+![image](https://github.com/jrcarob/langevin-equation/blob/master/Langevin_eq.gif)
